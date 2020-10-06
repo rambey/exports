@@ -1,0 +1,58 @@
+DATE;ID Client;Nom;Prénom;ID Commande;Ref Commande;N°Facture;Ref produit;Libelle;Quantité;Prix HT;CA HT;Taux de TVA;Montant TVA;Frais de port HT;TVA Frais de port;Montant TVA Frais de port;Réduction HT;TVA Réduction;Total TTC;Type 
+17/02/2020;43;Calone;Pierre-Alexandre;104;7K7MRYBIW;#FA000072;2013771000;Barres Energy Sport Chocolat (3 barres);1;3.74;3.74;5.5;0.21;;;;;;3.95;Produit 
+17/02/2020;43;Calone;Pierre-Alexandre;104;7K7MRYBIW;#FA000072;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+17/02/2020;43;Calone;Pierre-Alexandre;104;7K7MRYBIW;#FA000072;;Remise sur votre première commande;;;;;;;;;-0.75;0.04;-0.79;Réduction 
+07/02/2020;23;Test;Rémy;103;T53PD6AJL;#FA000071;1916921002;Boisson Hydrate & Perform citron;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+07/02/2020;23;Test;Rémy;103;T53PD6AJL;#FA000071;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+07/02/2020;23;Test;Rémy;102;THFZGZAFQ;#FA000070;2013771000;Barres Energy Sport Chocolat (3 barres);1;3.74;3.74;5.5;0.21;;;;;;3.95;Produit 
+07/02/2020;23;Test;Rémy;102;THFZGZAFQ;#FA000070;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+07/02/2020;23;Test;Rémy;101;KNABRJUSD;#FA000069;1782381000;Actifood pomme;1;2.27;2.27;5.5;0.13;;;;;;2.4;Produit 
+07/02/2020;23;Test;Rémy;101;KNABRJUSD;#FA000069;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+06/02/2020;23;Test;Rémy;98;JQYFJONKB;#FA000068;1782381000;Actifood pomme;1;2.27;2.27;5.5;0.13;;;;;;2.4;Produit 
+06/02/2020;23;Test;Rémy;98;JQYFJONKB;#FA000068;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+04/02/2020;40;test;test;96;NMAXIUSDF;#FA000067;1916941001;Boisson Hydrate & Perform Neutral;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+04/02/2020;40;test;test;96;NMAXIUSDF;#FA000067;2036141000;Barres Energy Sport Cranberry (3 barres);1;3.74;3.74;5.5;0.21;;;;;;3.95;Produit 
+04/02/2020;40;test;test;96;NMAXIUSDF;#FA000067;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+04/02/2020;40;test;test;95;DDX0M7JXX;#FA000066;1916931002;Boisson Hydrate & Perform orange;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+04/02/2020;40;test;test;95;DDX0M7JXX;#FA000066;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+04/02/2020;40;test;test;95;DDX0M7JXX;#FA000066;;Remise sur votre première commande;;;;;;;;;-1.89;0.1;-1.99;Réduction 
+27/01/2020;23;Test;Rémy;94;IEWDGIOIK;#FA000065;1782381000;Actifood pomme;1;2.27;2.27;5.5;0.13;;;;;;2.4;Produit 
+27/01/2020;23;Test;Rémy;94;IEWDGIOIK;#FA000065;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+13/01/2020;21;GARVI;Chloé;92;MWFPGWBOZ;#FA000063;2125041000;Boisson de récupération After sport Reload;1;11.33;11.33;5.5;0.62;;;;;;11.95;Produit 
+13/01/2020;21;GARVI;Chloé;92;MWFPGWBOZ;#FA000063;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+13/01/2020;39;Cabrol-Lematte;Agnes;91;BVO6YW4HH;#FA000062;1916931002;Boisson Hydrate & Perform orange;5;9.43;47.16;5.5;2.59;;;;;;49.75;Produit 
+13/01/2020;39;Cabrol-Lematte;Agnes;91;BVO6YW4HH;#FA000062;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+13/01/2020;41;PARAT;Fabien;89;N1TKQFKDJ;#FA000060;1916931002;Boisson Hydrate & Perform orange;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+13/01/2020;41;PARAT;Fabien;89;N1TKQFKDJ;#FA000060;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+13/01/2020;21;GARVI;Chloé;88;U0WEUEYVY;#FA000059;1916931002;Boisson Hydrate & Perform orange;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+13/01/2020;21;GARVI;Chloé;88;U0WEUEYVY;#FA000059;1782381000;Actifood pomme;1;2.27;2.27;5.5;0.13;;;;;;2.4;Produit 
+13/01/2020;21;GARVI;Chloé;88;U0WEUEYVY;#FA000059;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+09/01/2020;23;Test;Rémy;76;AW0BMFW2N;#FA000049;1916941001;Boisson Hydrate & Perform Neutral;2;9.43;18.86;5.5;1.04;;;;;;19.9;Produit 
+09/01/2020;23;Test;Rémy;76;AW0BMFW2N;#FA000049;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+09/01/2020;23;Test;Rémy;73;JD8W92H9E;#FA000046;1916941001;Boisson Hydrate & Perform Neutral;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+09/01/2020;23;Test;Rémy;73;JD8W92H9E;#FA000046;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+08/01/2020;23;Test;Rémy;68;IXKWFYUMY;#FA000042;1916931002;Boisson Hydrate & Perform orange;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+08/01/2020;23;Test;Rémy;68;IXKWFYUMY;#FA000042;;Chronopost 13h;;;;;;9.99;20.000;2;;;11.99;Transporteur 
+08/01/2020;23;Test;Rémy;67;QTHJZDDOY;#FA000041;1994821000;Actifood Exotique;1;2.27;2.27;5.5;0.13;;;;;;2.4;Produit 
+08/01/2020;23;Test;Rémy;67;QTHJZDDOY;#FA000041;;Chronopost 13h;;;;;;9.99;20.000;2;;;11.99;Transporteur 
+08/01/2020;23;Test;Rémy;66;7JCHKXUAX;#FA000040;1916941001;Boisson Hydrate & Perform Neutral;2;9.43;18.86;5.5;1.04;;;;;;19.9;Produit 
+08/01/2020;23;Test;Rémy;66;7JCHKXUAX;#FA000040;2104031000;Barres Essential cacao (3 barres);1;4.36;4.36;5.5;0.24;;;;;;4.6;Produit 
+08/01/2020;23;Test;Rémy;66;7JCHKXUAX;#FA000040;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+08/01/2020;23;Test;Rémy;65;VZ4IWAULT;#FA000039;2036141000;Barres Energy Sport Cranberry (3 barres);1;3.74;3.74;5.5;0.21;;;;;;3.95;Produit 
+08/01/2020;23;Test;Rémy;65;VZ4IWAULT;#FA000039;2104031000;Barres Essential cacao (3 barres);8;4.36;34.88;5.5;1.92;;;;;;36.8;Produit 
+08/01/2020;23;Test;Rémy;65;VZ4IWAULT;#FA000039;1916931002;Boisson Hydrate & Perform orange;2;9.43;18.86;5.5;1.04;;;;;;19.9;Produit 
+08/01/2020;23;Test;Rémy;65;VZ4IWAULT;#FA000039;;Chronopost 13h;;;;;;7.49;20.000;1.5;;;8.99;Transporteur 
+08/01/2020;23;Test;Rémy;64;EHR2TWDCP;#FA000038;1916941001;Boisson Hydrate & Perform Neutral;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+08/01/2020;23;Test;Rémy;64;EHR2TWDCP;#FA000038;1994821000;Actifood Exotique;4;2.27;9.1;5.5;0.5;;;;;;9.6;Produit 
+08/01/2020;23;Test;Rémy;64;EHR2TWDCP;#FA000038;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+08/01/2020;23;Test;Rémy;63;QRQXD17DV;#FA000037;1916941001;Boisson Hydrate & Perform Neutral;3;9.43;28.29;5.5;1.56;;;;;;29.85;Produit 
+08/01/2020;23;Test;Rémy;63;QRQXD17DV;#FA000037;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+07/01/2020;23;Test;Rémy;59;AL5CQEAGB;#FA000035;1878321000;Barres Energy sport Cereal & multifruits (3 barres);1;3.74;3.74;5.5;0.21;;;;;;3.95;Produit 
+07/01/2020;23;Test;Rémy;59;AL5CQEAGB;#FA000035;;Mondial Relay;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+02/01/2020;21;GARVI;Chloé;46;TWKGWWFHR;#FA000024;1977251001;Energy Fruit Boost fraise;1;5.64;5.64;5.5;0.31;;;;;;5.95;Produit 
+02/01/2020;21;GARVI;Chloé;46;TWKGWWFHR;#FA000024;2124961000;Whey Protein vanille;1;15.17;15.17;5.5;0.83;;;;;;16;Produit 
+02/01/2020;21;GARVI;Chloé;46;TWKGWWFHR;#FA000024;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+02/01/2020;28;Test;Test;44;CSH7JD5ML;#FA000064;1916941001;Boisson Hydrate & Perform Neutral;1;9.43;9.43;5.5;0.52;;;;;;9.95;Produit 
+02/01/2020;28;Test;Test;44;CSH7JD5ML;#FA000064;;Colissimo sans signature;;;;;;3.75;20.000;0.75;;;4.5;Transporteur 
+06/12/2019;21;GARVI;Chloé;23;3ZBMP0VGL;#FA000010;;Boisson Powertabs Antioxydants cranberry;1;0;0;0;0;;;;;;0;Produit 
+06/12/2019;21;GARVI;Chloé;23;3ZBMP0VGL;#FA000010;;predev;;;;;;0;20.000;0;;;0;Transporteur 
